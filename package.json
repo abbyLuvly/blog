@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "abby's blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbyLuvly/blog.git"
+  },
+  "keywords": [
+    "abbyLuvly",
+    "abby",
+    "luvly"
+  ],
+  "author": "Abby Luvly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abbyLuvly/blog/issues"
+  },
+  "homepage": "https://github.com/abbyLuvly/blog#readme"
+}
