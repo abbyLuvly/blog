@@ -793,12 +793,12 @@
 }
 
 body{
-  font-family:'Gochi Hand', cursive;
+  font-family:'Gaegu', cursive;
   font-size:24px;
   line-height:1.5;
   margin:0;
-  color:#f788b0;
-  background-color:#4c384a;
+  color:#f02872;
+  background-color:#ddd;
 }
 
 img{
@@ -811,7 +811,7 @@ svg{
 }
 
 a{
-  color:#f788b0;
+  color:#f02872;
 }
 
 h1, h2, h3,
